@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm @ravirawale, a passionate Data Analyst exploring insights in the world of data.
+# Passionate Data Analyst.
 
 - 👀 **Interested in**: Exploring diverse datasets, uncovering hidden patterns, and deriving actionable insights.
 - 🌱 **Currently learning**: Advanced statistical analysis and machine learning.
